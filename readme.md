@@ -16,4 +16,11 @@ Com base no projeto anterior, vamos continuar projetando nosso projeto de trocas
 
 Projetamos algumas telas e começamos coma a tela de login onde há 3 botões, recuperar senha, logar e fazer o cadastro
 
-apertando recuperar senha irá aparecer para você recuperar a senha como o nome já diz, de cadastro para fazer o cadastro e o de login para entrar na tela principal para trocar as cartas do RPG
+Apertando recuperar senha irá aparecer para você recuperar a senha como o nome já diz, de cadastro para fazer o cadastro e o de login para entrar na tela principal para trocar as cartas do RPG.
+
+Telas desenvolvidas 
+* Login
+* Cadastro
+* Recuperação de senha
+* Catalogo(Troca de cartas)
+* DashBoard
